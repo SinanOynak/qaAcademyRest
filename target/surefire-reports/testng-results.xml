@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-23T13:03:00 TRT" name="services.SampleTest4" finished-at="2022-01-23T13:03:02 TRT" duration-ms="1992">
+    <groups>
+    </groups>
+    <test started-at="2022-01-23T13:03:00 TRT" name="Command line test" finished-at="2022-01-23T13:03:02 TRT" duration-ms="1992">
+      <class name="services.SampleTest4">
+        <test-method signature="getInventory()[pri:0, instance:services.SampleTest4@ed9d034]" started-at="2022-01-23T13:03:00 TRT" name="getInventory" finished-at="2022-01-23T13:03:02 TRT" duration-ms="1978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInventory -->
+      </class> <!-- services.SampleTest4 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- services.SampleTest4 -->
+</testng-results>
